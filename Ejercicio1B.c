@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main ()
-{
+{ 
     int lista[5] = {10, 8, 5, 8, 7}; // Se declara e inicializa el arreglo unidimensional 
     int indice = 0;
     printf("\tLista\n");
